@@ -3,7 +3,7 @@ import random
 aciertos = 0
 Num_Valores = 200;
 UpperQuarter = (Num_Valores*3)/4
-Intentos = 1000000
+Intentos = 10000
 K = 8
 
 lista = range(1, Num_Valores + 1)
